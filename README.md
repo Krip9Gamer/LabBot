@@ -1,10 +1,2 @@
 # LabBot
-Procallia-Labs's discord bot
-
-To Do:
--Discord.js
--Command Handler
--Commands
--Eval Command
--Music Commands
--Javacord module 
+Procallia-Labs's discord bot, created by the javascript coders of Procallia
